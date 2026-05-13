@@ -1,0 +1,5 @@
+pytest==9.0.3
+requests==2.33.1
+pydantic==2.13.3
+email-validator==2.3.0
+assertpy==1.1
